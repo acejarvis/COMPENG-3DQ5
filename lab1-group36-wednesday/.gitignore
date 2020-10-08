@@ -10,6 +10,7 @@
 # Do not ignore exceptions from the following sub-folders
 !experiment?/
 !exercise/
+!solution/
 !board/
 !data/
 !doc/
