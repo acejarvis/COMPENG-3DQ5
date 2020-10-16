@@ -17,6 +17,7 @@
 !sim/
 !syn/
 !tb/
+!solution/
 
 # The following file types are treated as exceptions
 
