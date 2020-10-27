@@ -1,7 +1,5 @@
 # Lab 1 Exercise Report
-## Group Member
-Jarvis Wang &nbsp;400122276 <br />
-Siting Li &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 400180778
+
 ## Thought Process 
 ### 1. **Green LED Behavior Part**
 | LED        | Meaning when lightened | Logic Element  |
